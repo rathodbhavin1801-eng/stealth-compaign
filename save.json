@@ -1,0 +1,41 @@
+{
+  "unlocked_levels": 1,
+  "coins": 7165,
+  "xp": 41750,
+  "player_level": 1,
+  "best_score": 3300,
+  "level_scores": [
+    1600,
+    1750,
+    1900,
+    2050,
+    2200,
+    2125,
+    2200,
+    2350,
+    3250,
+    3300
+  ],
+  "settings": {
+    "sound": true,
+    "difficulty": "NIGHTMARE"
+  },
+  "upgrades": {
+    "health": 4,
+    "speed": 20,
+    "stealth": 11,
+    "attack": 5,
+    "stamina": 5
+  },
+  "skins": {
+    "default": true,
+    "crimson": false,
+    "shadow": false,
+    "gold": false,
+    "toxic": false,
+    "plasma": false,
+    "ice": false
+  },
+  "equipped_skin": "default",
+  "skin_save_version": 1
+}
